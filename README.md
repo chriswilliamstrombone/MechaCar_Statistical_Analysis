@@ -58,6 +58,8 @@ Again, using the p-value we can find if there is a statistical difference betwee
 
 ![5.png](Images/5.png)
 
+Looking at the images above, we can see that in all cases the p-value is above the assumed significance level of 0.05. Therefore, there is not enough evidence and we fail to reject the null hypothesis, meaning that the two means not statistically different.
+
 ## Study Design: MechaCar vs Competition
 
 Potential Metric:
